@@ -9,7 +9,7 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
+  subtitle: Aurora's Bloge
   author: Aurora
   nick: Auroral UI
   description:
